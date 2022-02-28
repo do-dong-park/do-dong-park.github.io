@@ -1,6 +1,6 @@
-// Body resets
-//
-// Update the foundational and global aspects of the page.
+ Body resets
+
+ Update the foundational and global aspects of the page.
 
 * {
   box-sizing: border-box;
@@ -25,7 +25,7 @@ html {
 body {
   text-size-adjust: 100%;
 }
-
+//
 main,
 article,
 section {
@@ -42,12 +42,12 @@ a {
   &:focus {
     text-decoration: underline;
   }
-
+//
   strong {
     color: inherit;
   }
 }
-
+//
 img {
   border-radius: 5px;
   display: block;
